@@ -1,5 +1,6 @@
 body {
   color: brown;
+  font-size: 0.8rem;
 }
 input[type="text"],
 input[type="search"] {
